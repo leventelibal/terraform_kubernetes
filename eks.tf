@@ -56,6 +56,8 @@ module "my-cluster" {
 
     asg_min_size = 3
 
+    asg_desired_capacity =3
+
     } 
 
   ] 
