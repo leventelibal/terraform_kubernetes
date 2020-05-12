@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"my-cluster","Source":"terraform-aws-modules/eks/aws","Version":"12.0.0","Dir":".terraform/modules/my-cluster/terraform-aws-eks-12.0.0"},{"Key":"my-cluster.node_groups","Source":"./modules/node_groups","Dir":".terraform/modules/my-cluster/terraform-aws-eks-12.0.0/modules/node_groups"}]}
